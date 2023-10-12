@@ -1,0 +1,1 @@
+schematics for the game known as "Mindustry“
